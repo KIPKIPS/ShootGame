@@ -1,0 +1,11 @@
+[
+	{
+		"id":10001,
+		"path":"Assets/ResourcesAssets/Scenes/MainWorld.unity"
+	},
+	{
+		"__metatable":"true",
+		"id":"int",
+		"path":"string"
+	}
+]
