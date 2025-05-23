@@ -7,8 +7,5 @@
     {
         ExampleUI = 0,
         StartUI = 1,
-        PlotUI = 2,
-        LobbyMainUI = 3,
-        MainUI = 4,
     }
 }

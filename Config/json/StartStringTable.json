@@ -6,6 +6,12 @@
 		"en":"Start Game"
 	},
 	{
+		"id":2,
+		"textKey":"GAME_NAME",
+		"sc":"射击游戏",
+		"en":"Shoot Game"
+	},
+	{
 		"__metatable":"true",
 		"id":"int",
 		"textKey":"string",

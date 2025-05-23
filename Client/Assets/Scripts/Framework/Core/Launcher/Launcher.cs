@@ -41,7 +41,7 @@ namespace Framework.Core.Launcher
             PlayerManager.Instance.Launch();
             ItemManager.Instance.Launch();
             
-            UIManager.OpenUI(EUI.PlotUI);
+            UIManager.OpenUI(EUI.StartUI);
         }
     }
 }

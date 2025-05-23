@@ -61,30 +61,6 @@ namespace Framework.Core.Manager.UI
                     UIType = UIType.Stack
                 }
             },
-            {
-                EUI.PlotUI,
-                new UIData
-                {
-                    UIPrefabPath = "UI/Pages/Plot/PlotUI",
-                    UIType = UIType.Stack
-                }
-            },
-            {
-                EUI.LobbyMainUI,
-                new UIData
-                {
-                    UIPrefabPath = "UI/Pages/Lobby/LobbyMainUI",
-                    UIType = UIType.Stack
-                }
-            },
-            {
-                EUI.MainUI,
-                new UIData
-                {
-                    UIPrefabPath = "UI/Pages/Main/MainUI",
-                    UIType = UIType.Stack
-                }
-            }
         };
 
         private const string LOGTag = "UIManager";
